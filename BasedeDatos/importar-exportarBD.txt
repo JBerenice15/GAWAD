@@ -8,6 +8,8 @@ Para exportar una base de datos debes de usar el siguiente comando de mysql como
 
 mysql -u root -p -h localhost BaseLogin > NombredelaBD.sql
 
-Windows puedes usar phpmyAdmin y segui los pasos de esta pagina:
+Windows
+
+Puedes usar phpmyAdmin y seguir los pasos de esta pagina:
 
 https://geekytheory.com/como-importarexportar-una-base-de-datos-mysql/
