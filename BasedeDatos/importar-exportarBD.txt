@@ -1,0 +1,13 @@
+Para importar una base de datos debes de usar el comando de mysql como sigue:
+
+Linux
+
+mysql -u root -p -h localhost BaseLogin < NombredelaBD.sql
+
+Para exportar una base de datos debes de usar el siguiente comando de mysql como sigue:
+
+mysql -u root -p -h localhost BaseLogin > NombredelaBD.sql
+
+Windows puedes usar phpmyAdmin y segui los pasos de esta pagina:
+
+https://geekytheory.com/como-importarexportar-una-base-de-datos-mysql/
